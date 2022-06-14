@@ -1,0 +1,10 @@
+Informacje do zalogowania się: 
+Administrator:
+Nr telefonu: 000000000
+Hasło: Admin
+Pracownik:
+Nr telefonu: 111111111
+Hasło: Pracownik1
+Przykładowy klient:
+Nr telefonu: 123123123
+Hasło: JanK
